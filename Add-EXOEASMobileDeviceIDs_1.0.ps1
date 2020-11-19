@@ -21,8 +21,7 @@
 # Exchange Online Device partnership inventory
 # Add-EXOEASMobileDeviceIDs.ps1
 #  
-# Created by: Austin McCollum 2/11/2018 austinmc@microsoft.com
-# Updated by: Kevin Bloom and Garrin Thompson 11/3/2020 Kevin.Bloom@Microsoft.com garrint@microsoft.com *** "Borrowed" a few quality-of-life functions from Start-RobustCloudCommand.ps1 and added EXOv2 connection
+# Created by: Kevin Bloom and Garrin Thompson 11/3/2020 Kevin.Bloom@Microsoft.com garrint@microsoft.com *** "Borrowed" a few quality-of-life functions from Start-RobustCloudCommand.ps1 and added EXOv2 connection
 #
 #########################################################################################
 # This script reads the output file from EXO_MobileDevice_Inventory_3.6.ps1 and adds mobile device IDs for non-Outlook Mobile devices that are Allowed and Externally Managed
